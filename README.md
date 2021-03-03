@@ -6,6 +6,6 @@
 ## 발표 동영상
 발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360" 
-src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+src="<iframe width="900" height="506" src="https://www.youtube.com/embed/pD6JCZHdJMI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" frameborder="0"></iframe>
 ## Reference[검색엔진](https://naver.com)
 [Repository 1](https://{github-id}.github.io/{repository-name}) 
