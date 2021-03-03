@@ -5,7 +5,7 @@
 [발표자료](/project.pptx)<br>
 ## 발표 동영상
 발표 동영상입니다.
-<iframe width="1045" height="490" src="https://www.youtube.com/embed/CFucxTwnNLw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/28oY5sACFgc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## Reference[검색엔진](https://naver.com)
 [Repository 1](https://{github-id}.github.io/{repository-name}) 
 
